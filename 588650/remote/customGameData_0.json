@@ -35,7 +35,9 @@
 		"Freeze",
 		"Shield",
 		"GreedShield",
-		"ExtraHeal"
+		"ExtraHeal",
+		"FastGrenade",
+		"IceBomb"
 	],
 	"gpEnabled": [],
 	"preset": -1,
@@ -44,6 +46,6 @@
 	"forcedRightWeapon": null,
 	"forcedLeftSkill": null,
 	"forcedRightSkill": null,
-	"__uid": 471370,
+	"__uid": 1913600,
 	"": null
 }

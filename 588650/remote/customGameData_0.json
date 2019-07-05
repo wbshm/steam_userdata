@@ -37,7 +37,12 @@
 		"GreedShield",
 		"ExtraHeal",
 		"FastGrenade",
-		"IceBomb"
+		"IceBomb",
+		"Whip",
+		"ImpaleSpear",
+		"ThrowingTorch",
+		"MultiCrossBow",
+		"Hook"
 	],
 	"gpEnabled": [],
 	"preset": -1,
@@ -46,6 +51,6 @@
 	"forcedRightWeapon": null,
 	"forcedLeftSkill": null,
 	"forcedRightSkill": null,
-	"__uid": 1913600,
+	"__uid": 471368,
 	"": null
 }

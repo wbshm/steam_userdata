@@ -16,7 +16,7 @@
 	"lightFlashes": true,
 	"screenShakes": true,
 	"stopDodgeOnCliff": false,
-	"foodKind": "vege",
+	"foodKind": "cstl",
 	"captureMouse": true,
 	"useLegacyFont": false,
 	"debug": null,
